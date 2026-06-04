@@ -1,1 +1,1 @@
-{"answer":false,"choice1":"Yes","choice2":"No","comment":"訪れる街と暮らす街では見える景色が変わります。通勤や買い物、平日の過ごし方まで含めて相性を確認したいところです","category":"I(Identity) 住環境との相性","question":"直感で気に入った街が見つかったら、その街に住んでも満足できる可能性は高いと思う"}
+concat("[",{"answer":false,"choice1":"Yes","choice2":"No","comment":"災害リスクは浸水だけではありません。地震や停電、避難経路なども確認したいポイントです","category":"O(On Guard）備えの意識","question":"ハザードマップに色がついていなければ、防災面はほぼ安心だと思う"}, "]"
