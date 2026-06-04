@@ -1,1 +1,8 @@
-"{\n  \"question\": \"{\"type\":\"text\",\"text\":{\"content\":\"直感で気に入った街が見つかったら、その街に住んでも満足できる可能性は高いと思う\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"直感で気に入った街が見つかったら、その街に住んでも満足できる可能性は高いと思う\",\"href\":null}\",\n  \"choice1\": \"{\"type\":\"text\",\"text\":{\"content\":\"Yes\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Yes\",\"href\":null}\",\n  \"choice2\": \"{\"type\":\"text\",\"text\":{\"content\":\"No\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"No\",\"href\":null}\",\n  \"answer\": false,\n  \"comment\": \"{\"type\":\"text\",\"text\":{\"content\":\"訪れる街と暮らす街では見える景色が変わります。通勤や買い物、平日の過ごし方まで含めて相性を確認したいところです\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"訪れる街と暮らす街では見える景色が変わります。通勤や買い物、平日の過ごし方まで含めて相性を確認したいところです\",\"href\":null}\",\n  \"category\": \"{\"type\":\"text\",\"text\":{\"content\":\"I(Identity) 住環境との相性\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"I(Identity) 住環境との相性\",\"href\":null}\"\n}"
+{
+  "question": "直感で気に入った街が見つかったら、その街に住んでも満足できる可能性は高いと思う",
+  "choice1": "Yes",
+  "choice2": "No",
+  "answer": false,
+  "comment": "訪れる街と暮らす街では見える景色が変わります。通勤や買い物、平日の過ごし方まで含めて相性を確認したいところです",
+  "category": "I(Identity) 住環境との相性"
+}
